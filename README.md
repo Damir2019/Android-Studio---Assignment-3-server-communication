@@ -12,5 +12,6 @@ contains :
 - Self Built Server : server built for this project.
 - Scroll View : all activities are scrollable with Scroll View.
 - Volley : request made with Volley library.
+And More...
 
 
